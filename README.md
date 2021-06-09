@@ -20,13 +20,9 @@ I am a Physicist who is currently working as a Data Scientist. I am interested i
 
 ## 📈 Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=uzmargomez&show_icons=true&hide_border=true" alt="GitHub Stats">
-</div>
+![Uzmar Gomez's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzmargomez&show_icons=true&theme=radical)
 
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=uzmargomez.uzmargomez" alt="visitors">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzmargomez)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Links
 
