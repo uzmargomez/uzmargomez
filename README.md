@@ -20,7 +20,7 @@ I am a Physicist who is currently working as a Data Scientist. I am interested i
 
 ## 📈 Stats
 
-![Uzmar Gomez's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzmargomez&show_icons=true&theme=radical)
+![Uzmar Gomez's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzmargomez&show_icons=true&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzmargomez)](https://github.com/anuraghazra/github-readme-stats)
 
