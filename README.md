@@ -7,7 +7,7 @@ I am a Physicist who is currently working as a Data Scientist. I am interested i
 ### Languages
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 
 ### Database
 
